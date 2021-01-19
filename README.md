@@ -1,1 +1,2 @@
-# -predicci-n-stock-chile-ml-test
+# predicción-stock-chile-ml-test
+Predicciones de stocks de chile usando SVR
